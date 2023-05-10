@@ -1,1 +1,1 @@
-export const apiKey = "sk-你的 OpenAI apiKey"
+export const apiKey = "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"
